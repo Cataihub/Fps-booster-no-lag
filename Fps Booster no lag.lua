@@ -50,4 +50,4 @@ _G.Settings = {
 		["Reset Materials"] = true,
 	}
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/FPSBooster.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Cataihub/FPSBOOSTER/main/Fpsbooster.lua"))()
