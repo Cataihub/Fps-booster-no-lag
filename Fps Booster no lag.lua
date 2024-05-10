@@ -39,7 +39,7 @@ _G.Settings = {
 		Destroy = false
 	},
 	Other = {
-		["FPS Cap"] = 999, -- true to uncap
+		["FPS Cap"] = 99999, -- true to uncap
 		["No Camera Effects"] = true,
 		["No Clothes"] = true,
 		["Low Water Graphics"] = true,
